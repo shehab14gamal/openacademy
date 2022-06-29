@@ -1,0 +1,1 @@
+from . import open_academy, res_partner
